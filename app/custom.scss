@@ -1,0 +1,25 @@
+.contract, .existing-contracts {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+  }
+
+  label {
+    color: #aaa;
+    margin: 5px;
+  }
+
+  .complete {
+    color: #5aa75a;
+    text-align: left;
+  }
+
+  .heading {
+    margin: 10px;
+    padding: 10px;
+    font-size: large;
+  }
